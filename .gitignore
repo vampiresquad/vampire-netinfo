@@ -1,1 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Encrypted or compiled outputs
+*.enc
+*.exe
+*.out
+*.bin
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code or other editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Tool-specific config/cache
+.cache/
+*.db
+output/
+results/
+
+# Hide secret files
+secrets.txt
+secret_keys/
+private_keys/
